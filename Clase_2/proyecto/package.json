@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Esto es un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "cowsay Hola"
+  },
+  "keywords": [
+    "Proyecto",
+    "Node"
+  ],
+  "author": "Javier Serrano Lule",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
